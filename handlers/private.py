@@ -3,21 +3,36 @@ from pyrogram.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
 from helpers.filters import other_filters2
 
-STICKER = "CAACAgQAAx0CQ2C8OgACsqNhiisoWUQROohUrpaGzDsHsot3dQACVxYAAtqjlSznBlAxygdMwyIE"
+STICKER = "CAACAgQAAxkBAAEBAVBhi-xWk3J4wULennxxK3C2v_VVwgACuwUAAqcgawSuONdA8Q9lQSIE"
 
 
 START_TEXT = """
-👋 Hey {} I am an Telegram Groups Music Player, I let you play music in your group's voice chat.
+👋 Hey {} I am a versatile Automated Bot that can play music in Telegram Group Voice Chats.
 
-**Commands** [Here](telegra.ph/A-Simple-Group-Music-player-bot-by-SDBotsz-11-09-2)
 
-Join @SDBotsz. 🔥
+🔆Thank you for starting me @luvchaeyoung_robot.
+
+ 🔆My developer is @ucant_surpassmebruh 🇱🇰🇰🇷🇯🇵
+
+🔆If you wish to donate, please PM my developer and contact him for any sort of inquiries as well.
+
+⭕️⭕️⭕️⭕️
+
+A sincere request to join our bot updates channel and discussion group using the links 🔗 below;
+
+☯️Discussion :- https://t.me/luvchaeyoung_botupdates
+
+☯️Updates Channel:- https://t.me/RoseannePark_updates
+
+**Commands** [Here]("https://telegra.ph/file/60abc9b21f4378e922e5e.jpg")
+
+🔥🔥🔥🔥🔥🔥🔥🔥🔥🔥
 """
 
 START_BUTTON = InlineKeyboardMarkup(
         [[
-        InlineKeyboardButton('Channel', url="https://t.me/SDBOTs_inifinity"),
-        InlineKeyboardButton('Group', url='https://t.me/SDBOTz')
+        InlineKeyboardButton('Channel', url="https://t.me/RoseannePark_updates"),
+        InlineKeyboardButton('Group', url='https://t.me/luvchaeyoung_botupdates')
         ]]
   
 )
